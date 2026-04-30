@@ -1,6 +1,6 @@
 # SSH key-based authentication setup
 
-**Environment:** Debian 12 · VirtualBox (NAT) · Tabby on Windows  
+**Environment:** Debian 13· VirtualBox (NAT) · Tabby on Windows  
 **Date:** 2026-04
 
 ---
