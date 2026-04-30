@@ -12,7 +12,7 @@ Symptom → Diagnosis → Resolution → What I learned
 
 | File | What it covers |
 |------|---------------|
-| [ssh-connection-failure.md](ssh-connection-failure.md) | SSH key-based auth on Debian + VirtualBox NAT |
+| [ssh-connection-failure.md](runbooks/ssh-connection-failure.md) | SSH key-based auth on Debian + VirtualBox NAT |
 
 ---
 
