@@ -39,8 +39,8 @@ Configured port forwarding in VirtualBox:
 
 **Step 3 — Found the real problem**
 
-Authentication was failing because the username was typed with a capital J in Tabby.
-Linux usernames are case-sensitive — `Jerry` and `jerry` are different users.
+Authentication was failing because the username was typed with a capital S in Tabby.
+Linux usernames are case-sensitive — `Sysadm` and `sysadm` are different users.
 
 Lesson: always verify credentials exactly, including case.
 
