@@ -1,4 +1,4 @@
-# SSH key-based authentication setup
+# ssh-connection-failure.md
 
 **Environment:** Debian 13· VirtualBox (NAT) · Tabby on Windows  
 **Date:** 2026-04
