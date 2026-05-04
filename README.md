@@ -13,6 +13,7 @@ Symptom → Diagnosis → Resolution → What I learned
 | File | What it covers |
 |------|---------------|
 | [ssh-connection-failure.md](runbooks/ssh-connection-failure.md) | SSH key-based auth on Debian + VirtualBox NAT |
+| [service-not-starting.md](runbooks/service-not-starting.md) | Apache2 not starting after reboot — port conflict |
 
 ---
 
